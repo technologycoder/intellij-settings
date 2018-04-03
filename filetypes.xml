@@ -7,6 +7,8 @@
       <mapping pattern=".part-00000-cba49db7-a913-4e96-affb-2558abad371c.txt.crc" type="PLAIN_TEXT" />
       <mapping pattern=".part-00000-2b2bdea4-1438-4e4c-a6fb-6eb0debcea9a.txt.crc" type="PLAIN_TEXT" />
       <mapping ext="tree" type="PLAIN_TEXT" />
+      <mapping ext="249" type="PLAIN_TEXT" />
+      <mapping ext="243" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
