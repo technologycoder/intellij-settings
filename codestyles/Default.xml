@@ -9,5 +9,6 @@
     <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="1" />
     <option name="BLANK_LINES_AROUND_FIELD" value="1" />
     <option name="BLANK_LINES_BEFORE_METHOD_BODY" value="1" />
+    <option name="SPACE_WITHIN_ANNOTATION_PARENTHESES" value="true" />
   </codeStyleSettings>
 </code_scheme>
