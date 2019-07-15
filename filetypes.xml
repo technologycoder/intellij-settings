@@ -13,6 +13,7 @@
       <mapping ext="tree" type="PLAIN_TEXT" />
       <mapping ext="249" type="PLAIN_TEXT" />
       <mapping ext="243" type="PLAIN_TEXT" />
+      <mapping ext="exl" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
