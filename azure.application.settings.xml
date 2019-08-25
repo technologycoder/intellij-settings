@@ -3,6 +3,7 @@
     <option name="properties">
       <map>
         <entry key="Enable.HDInsight.New.SDK" value="true" />
+        <entry key="com.microsoft.azure.hdinsight.DefaultSparkApplicationType" value="None" />
       </map>
     </option>
   </component>
