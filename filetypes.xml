@@ -4,6 +4,8 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*Jenkinsfile" type="Groovy" />
+      <mapping pattern="Jenkinsfile-Snapshot" type="Groovy" />
+      <mapping pattern="Jenkinsfile-Release" type="Groovy" />
       <mapping pattern="part-00002" type="PLAIN_TEXT" />
       <mapping pattern="part-00001" type="PLAIN_TEXT" />
       <mapping pattern="part-00000" type="PLAIN_TEXT" />
