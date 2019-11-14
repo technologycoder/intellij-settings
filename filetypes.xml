@@ -8,6 +8,7 @@
       <mapping pattern="Jenkinsfile-Snapshot" type="Groovy" />
       <mapping pattern="Jenkinsfile-CI" type="Groovy" />
       <mapping pattern="Jenkinsfile-Release-1" type="Groovy" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern=".part-00000-2b2bdea4-1438-4e4c-a6fb-6eb0debcea9a.txt.crc" type="PLAIN_TEXT" />
       <mapping pattern=".part-00000-cba49db7-a913-4e96-affb-2558abad371c.txt.crc" type="PLAIN_TEXT" />
       <mapping pattern="_SUCCESS" type="PLAIN_TEXT" />
