@@ -17,6 +17,7 @@
       <mapping pattern="part-00001" type="PLAIN_TEXT" />
       <mapping pattern="part-00000" type="PLAIN_TEXT" />
       <mapping pattern="temp" type="PLAIN_TEXT" />
+      <mapping ext="painless" type="PLAIN_TEXT" />
       <mapping ext="249" type="PLAIN_TEXT" />
       <mapping ext="exl" type="PLAIN_TEXT" />
       <mapping ext="tree" type="PLAIN_TEXT" />
