@@ -3,6 +3,7 @@
     <option name="clusters">
       <list>
         <option value="usphxusrchast01:2181" />
+        <option value="usphxusrchasq01:2181" />
       </list>
     </option>
   </component>
