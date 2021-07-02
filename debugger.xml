@@ -437,6 +437,7 @@
       <option name="USE_CLASS_FILTERS" value="true" />
     </Renderer>
     <Renderer ID="ClassRenderer">
+      <option name="SHOW_FQ_TYPE_NAMES" value="true" />
       <option name="SHOW_DECLARED_TYPE" value="true" />
     </Renderer>
     <CustomRenderers VERSION="8">
