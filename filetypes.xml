@@ -1,40 +1,39 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping ext="csv" type="CSV file" />
+      <removed_mapping ext="csv" type="CSV/TSV" />
       <mapping pattern="*Jenkinsfile" type="Groovy" />
-      <mapping pattern="Jenkinsfile-Snapshot" type="Groovy" />
-      <mapping pattern="Jenkinsfile-Release-1" type="Groovy" />
-      <mapping pattern="Jenkinsfile-CI" type="Groovy" />
       <mapping pattern="Jenkinsfile-Release" type="Groovy" />
-      <mapping ext="main.kts" type="Kotlin" />
-      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping pattern="Jenkinsfile-Snapshot" type="Groovy" />
+      <mapping pattern="Jenkinsfile-CI" type="Groovy" />
+      <mapping pattern="Jenkinsfile-Release-1" type="Groovy" />
       <mapping ext="space.kts" type="Kotlin" />
-      <mapping pattern=".part-00000-cba49db7-a913-4e96-affb-2558abad371c.txt.crc" type="PLAIN_TEXT" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="_COMPLETED" type="PLAIN_TEXT" />
       <mapping pattern=".part-00000-2b2bdea4-1438-4e4c-a6fb-6eb0debcea9a.txt.crc" type="PLAIN_TEXT" />
+      <mapping pattern=".part-00000-cba49db7-a913-4e96-affb-2558abad371c.txt.crc" type="PLAIN_TEXT" />
       <mapping pattern="_SUCCESS" type="PLAIN_TEXT" />
       <mapping pattern=".part-00000-4cec1770-ee1f-4fe9-bbfd-5fd567e61306.txt.crc" type="PLAIN_TEXT" />
-      <mapping pattern="_COMPLETED" type="PLAIN_TEXT" />
+      <mapping pattern="temp" type="PLAIN_TEXT" />
       <mapping pattern="part-00002" type="PLAIN_TEXT" />
       <mapping pattern="part-00001" type="PLAIN_TEXT" />
       <mapping pattern="part-00000" type="PLAIN_TEXT" />
-      <mapping pattern="temp" type="PLAIN_TEXT" />
-      <mapping ext="painless" type="PLAIN_TEXT" />
-      <mapping ext="249" type="PLAIN_TEXT" />
-      <mapping ext="exl" type="PLAIN_TEXT" />
       <mapping ext="tree" type="PLAIN_TEXT" />
+      <mapping ext="painless" type="PLAIN_TEXT" />
+      <mapping ext="exl" type="PLAIN_TEXT" />
       <mapping ext="243" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="psd" approved="true" type="Image" />
-      <removed_mapping pattern="*Jenkinsfile*" approved="true" type="Groovy" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
-      <removed_mapping ext="makefile" approved="true" type="textmate" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <mapping ext="249" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping pattern="*Jenkinsfile*" approved="true" type="Groovy" />
     </extensionMap>
   </component>
 </application>
