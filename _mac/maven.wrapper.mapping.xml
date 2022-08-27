@@ -1,0 +1,10 @@
+<application>
+  <component name="MavenWrapperMapping">
+    <option name="mapping">
+      <map>
+        <entry key="https://repo.maven.apache.org/maven2/org/apache/maven/apache-maven/3.6.2/apache-maven-3.6.2-bin.zip" value="$USER_HOME$/.m2/wrapper/dists/apache-maven-3.6.2-bin/795eh28tki48bv3l67maojf0ra/apache-maven-3.6.2" />
+        <entry key="https://search-ops.insight.com/artifactory/search-release/org/apache/maven/apache-maven/3.6.3/apache-maven-3.6.3-bin.zip" value="$USER_HOME$/.m2/wrapper/dists/apache-maven-3.6.3-bin/1tv31e6c9i2jfgub78gpopmat/apache-maven-3.6.3" />
+      </map>
+    </option>
+  </component>
+</application>
