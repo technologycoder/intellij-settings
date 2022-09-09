@@ -85,9 +85,7 @@
   <component name="TextDiffSettings">
     <option name="PLACES_MAP">
       <entry key="ChangesView">
-        <PlaceSettings>
-          <option name="HIGHLIGHT_POLICY" value="BY_LINE" />
-        </PlaceSettings>
+        <PlaceSettings />
       </entry>
       <entry key="Default">
         <PlaceSettings>
