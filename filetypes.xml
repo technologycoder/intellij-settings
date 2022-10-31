@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="logs" type="AUTO_DETECTED" />
       <mapping pattern="resources" type="AUTO_DETECTED" />
       <mapping pattern="*Jenkinsfile" type="Groovy" />
       <mapping pattern="Jenkinsfile-Release" type="Groovy" />
